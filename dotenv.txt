@@ -1,0 +1,4 @@
+este es un ejemplo de comom luce el archivo .env el cual no se subio a este repo
+DB_PASSWD="my password"
+DB_CONNECTION=mongo="mongo url"
+ACCESS_TOKEN_SECRET="my jwt secret "
